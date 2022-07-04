@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kenji
+- 👋 Hi, I’m Kenji ᕦ(ò_óˇ)ᕤ
 - 👀 I’m interested in videogame programming
 - 🌱 I’m currently learning Computer Science in Real-Time Interactive Simulation
 - 💞️ I’m looking to collaborate on future games
